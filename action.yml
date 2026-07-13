@@ -2,8 +2,8 @@ name: AI Security Scanner
 description: PR 自动安全漏洞扫描，CWE 对齐，DeepSeek 驱动，行内标记
 author: SecurityScanner
 branding:
-  icon: zap
-  color: purple
+  icon: 'zap'
+  color: 'purple'
 inputs:
   api_key:
     description: DeepSeek API Key
